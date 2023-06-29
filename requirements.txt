@@ -1,0 +1,2 @@
+ghdiff==0.4
+requests==2.29.0
